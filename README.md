@@ -109,7 +109,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Riyaz Ahmed**
+👤 **Rabecca Nabwire**
 
 - GitHub: [@gitHubhandle](https://github.com/becky449)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rabeccanabwire/)
