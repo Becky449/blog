@@ -6,7 +6,7 @@ RSpec.describe Post, type: :model do
   it { should have_many(:comments) }
   it { should have_many(:likes) }
 
-  # Test callbacks
+  # Test callback s
   describe 'after_save' do
     let(:post) { create(:post) }
     let(:author) { post.author }
