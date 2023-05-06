@@ -10,7 +10,7 @@ RSpec.describe User, type: :model do
     it { should validate_numericality_of(:posts_counter).only_integer.is_greater_than_or_equal_to(0) }
   end
 
-  it "returns the 3 latest posts" do
+  it 'returns the 3 latest posts' do
     expect(subject.post.three_latest_posts).to eq(3)
   end
 end
